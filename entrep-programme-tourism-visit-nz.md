@@ -14,7 +14,7 @@ Through our platform, we were able to provide business to our business partners 
 
 3. What are your future business aspirations?
 
-I want to drive our business to be a leader of e-tourism services in the industry.
+I want to take our business to be a leader of e-tourism services in the industry. This is to build on top of lessons learned and opportunities discovered when I developed our information system. I hope to open up new and untapped markets through these efforts.
 
 4. How do you think your visit to New Zealand can help with your business goals?
 
