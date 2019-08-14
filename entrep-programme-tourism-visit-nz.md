@@ -24,6 +24,12 @@ The experience will allow me to create innovative products and services that are
 
 ### Where did you study and what is your professional background?
 
-I finished my bachelor’s degree in Business Administration major in Computer Applications at De La Salle-College of Saint Benilde in Manila, Philippines in 2004. After graduation, I started my career as a graphic /web designer. In 2009, I co-founded JTC Travel and Tours with my wife when we saw an opportunity in the educational tour sector. In 2012, we incorporated the business as Etours Davao Inc, which I would be the President and my wife as the vice-president. While I act in the capacity of a general manager, most of the time I work as a software developer in our small business.
+In 2004, I finished my bachelor’s degree in Business Administration major in Computer Applications at De La Salle-College of Saint Benilde in Manila, Philippines. I started my career as a graphic /web designer and out of necessity slowly taught myself programming through books and resources from the internet.
+
+In 2009, I co-founded a tour operations company with my wife. Having studied system analysis and design in college, I knew that system automation can increase our productivity and be a business advantage. Since then, I was mainly involved in building our information system.
+
+In 2012, I took up a Master's in Information Technology at Ateneo de Davao University but dropped out after one semester because it did not satisfy my desire for a thorough study on computing. 
+
+In 2017, I finished my two-year post-graduate diploma in Computer Science at the University of the Philippines and got the education I wanted on computer systems.
 
  
