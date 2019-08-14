@@ -4,9 +4,13 @@ I am using my software development skills to develop new products and services f
  
 2. What do you consider your most important professional achievement to date and why?
 
-I was a able to create a platform for our business to sell our tour products online. I will say claim that about 90% of our bookings comes from our website. Our platform is composed of our pricing, booking and reservation system. Our information system is an eco system of proprietary and third party system assembled together to form a business unit.
+I still consider the development of our information system as my most important achievement to date. It is composed of our proprietary software applications such as Content Management System, Quick Pricing System, Reservation/Booking System, and third-party applications assembled to form a business unit. 
 
-However, what we are most proud of is through this platform we were able to provide business to tourism related establishments and livelihood to front liners and communities. I realise that we can actually help a lot of people through our platform and that is where it became mission-oriented than a profit-oriented. 
+About 90% of our revenue funnels through this system.
+
+I learned a lot from building the system. Not only was I able to navigate through the technical complexity in building computer systems, but I also recognized units that can positively disrupt the tourism industry.
+
+Through our platform, we were able to provide business to our business partners and livelihood to tourism front liners and communities. Somehow, it validated my efforts and inspired me to continue to build upon the success.
 
 3. What are your future business aspirations?
 
