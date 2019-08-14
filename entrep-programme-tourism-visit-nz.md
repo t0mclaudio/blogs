@@ -18,7 +18,9 @@ I want to take our business to be a leader of e-tourism services in the industry
 
 ### How do you think your visit to New Zealand can help with your business goals?
 
-Aside from familiarising myself with New Zealand travel products and services, I want to learn by observing best practices New Zealand tourism players are doing in terms of environment, gender equality, and other social issues that affects or a product of the whole tourism industry. I want to connect and learn from other entrepreneurs about their perspective on where the industry is going.
+I expect my visit to New Zealand to be a learning experience where I will discover new things and broaden my horizon on the industry. I believe I will grow from this trip, make new connections, new perspectives, and gain a broader range of conceptions about the industry.
+
+The experience will allow me to create innovative products and services that are sensitive to the issues of our society today. And more important, bring new business to New Zealand and my country.
 
 ### Where did you study and what is your professional background?
 
