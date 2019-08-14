@@ -24,7 +24,7 @@ The experience will allow me to create innovative products and services that are
 
 ### Where did you study and what is your professional background?
 
-In 2004, I finished my bachelor’s degree in Business Administration major in Computer Applications at De La Salle-College of Saint Benilde in Manila, Philippines. I started my career as a graphic /web designer and out of necessity slowly taught myself programming through books and resources from the internet.
+In 2004, I finished my bachelor’s degree in Business Administration major in Computer Applications at De La Salle-College of Saint Benilde in Manila. I started my career as a graphic/web designer and out of necessity taught myself programming using different mediums.
 
 In 2009, I co-founded a tour operations company with my wife. Having studied system analysis and design in college, I knew that system automation can increase our productivity and be a business advantage. Since then, I was mainly involved in building our information system.
 
