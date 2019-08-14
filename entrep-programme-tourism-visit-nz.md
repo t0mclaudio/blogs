@@ -1,7 +1,5 @@
 1. Please explain what you are currently doing in your career.
 
-Kia Ora!
-
 I am using my software development skills to develop new product and services for our business.  I evaluate new software services, frameworks, libraries, and utilities that may be assembled together to create market-driving opportunities for our business. These solutions may also be offered to the industry as a form of service to address common problems such as digitising products, inventory, and product accessibility. I have seen this a lot in my 10 years in the industry - where products can’t be accessed by intended market, usually this happens in community based tourism projects where members are not technologically adept. I also see opportunities in closing the gap between inquiry to closing the sale. These are projects that I am interested in, which I know will benefit our business and the whole industry. That is why I want to keep myself up to date with latest technology, products, and best practices.
  
 2. What do you consider your most important professional achievement to date and why?
