@@ -22,7 +22,7 @@ I want to take our business to be a leader of e-tourism services in the industry
 
 I expect my visit to New Zealand to be a learning experience where I will discover new things and broaden my horizon on the industry. I believe I will grow from this trip, make new connections, new perspectives, and gain a broader range of conceptions about the industry.
 
-The experience will allow me to create innovative products and services that are sensitive to the issues of our society today. And more important, bring new business to New Zealand and my country.
+The experience will let me create innovative products and services that are sensitive to the issues of our society today, and more importantly, bring new business to New Zealand and my country.
 
 ### Where did you study and what is your professional background?
 
@@ -30,7 +30,7 @@ In 2004, I finished my bachelor’s degree in Business Administration major in C
 
 In 2009, I co-founded a tour operations company with my wife. Having studied system analysis and design in college, I knew that system automation can increase our productivity and be a business advantage. Since then, I was mainly involved in building our information system.
 
-In 2012, I took up a Master's in Information Technology at Ateneo de Davao University but dropped out after one semester because it did not satisfy my desire for a thorough study on computing. 
+In 2012, I took up a Master's in Information Technology at Ateneo de Davao University but dropped out after one semester because it did not satisfy my requirement for a thorough study on the fundamentals of computer technology. 
 
 In 2017, I finished my two-year post-graduate diploma in Computer Science at the University of the Philippines and got the education I wanted on computer systems.
 
