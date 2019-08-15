@@ -10,9 +10,9 @@ I still consider the development of our information system as my most important 
 
 About 90% of our revenue funnels through this system.
 
-I learned a lot from building the system. Not only was I able to navigate through the technical complexity in building computer systems, but I also recognized units that can positively disrupt the tourism industry.
+I learned a lot from this experience. I was able to navigate through the technical complexity in building computer systems and recognized components that can positively disrupt the tourism industry.
 
-Through our platform, we were able to provide business to our business partners and livelihood to tourism front liners and communities. Somehow, it validated my efforts and inspired me to continue to build upon the success.
+Through our platform, we were able to provide business to our partners and livelihood to tourism front liners and communities. Somehow, it validated my efforts and inspired me to continue to build upon the success.
 
 ### What are your future business aspirations?
 
