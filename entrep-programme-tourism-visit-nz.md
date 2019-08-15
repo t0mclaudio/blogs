@@ -2,7 +2,7 @@ Tom is an entrepreneur and software engineer. He co-founded a tour operations bu
 
 ### Please explain what you are currently doing in your career.
 
-I am using my software development skills to develop new products and services for our business. I evaluate new software services, frameworks, libraries, and utilities that may be assembled to create market-driving opportunities for our business. I'm developing software applications that I hope will be useful to stakeholders in the tourism industry. These projects are based on my experience and observations as a tour operator for the past 10 years. Through these services, I wish to help those who need tools to increase their productivity and income.
+I use my software engineering skills to develop new products and services for our business. I evaluate new software services, frameworks, libraries, and utilities that may be assembled to create market-driving opportunities for our business. I develop e-tourism services intending to help increase the productivity and income of our business. These projects are based on my experience and observations as a tour operator and software developer for the past 10 years.
  
 ### What do you consider your most important professional achievement to date and why?
 
