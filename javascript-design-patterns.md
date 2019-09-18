@@ -1,6 +1,7 @@
 # Javascript design notes 
 
 **Scoping**
+
 This pattern is used to set local scope in a module
 
 ```js
@@ -24,6 +25,7 @@ This pattern is used to set local scope in a module
 ```
 
 **Immediately invoked function expression**
+
 This pattern invokes the function expression immediately
 
 ```js
@@ -36,6 +38,7 @@ This pattern invokes the function expression immediately
 
 ### Creational design patterns
 **Module Pattern**
+
 This is useful for creating modules with local protected variables, only specific methods of the modules are exposed.
 ```js
 const Transaction = ( () => {
@@ -56,6 +59,7 @@ NewTransaction.enterName("Jonny Cash");
 ```
 
 **Singleton**
+
 This is used where only one instance can be instantiated. e.g. Database
 ```js
   const Database = (function(){
