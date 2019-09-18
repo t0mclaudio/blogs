@@ -4,14 +4,14 @@
 This pattern is used to set local scope in a module
 
 ```js
-( function PaymentProcessor() {
+(function PaymentProcessor() {
   ...
-  })
+})
 ```
 
 **Function Declaration**
 ``` js
-  function test() {
+  function CreditCard() {
     //code here
   }
 ```
@@ -37,19 +37,19 @@ This pattern invokes the function expression immediately
 ### Creational design patterns
 **Module Pattern**
 ```js
-const Product = ( () => {
-  let _name = "Name"
-  let _addName = (n) => {
-    _name = n
+const Transaction = ( () => {
+  let _custname = null;
+  let _createCustName = (n) => {
+    _custname = n
   }
   
   return {
-    assignName: (n) => {
-      _addName(n)
+    enterName: (n) => {
+      _createCustName(n)
     }
   }
 })()
 
-var NewProduct = Product()
-NewProduct.assignName("Iphone 7");
+var NewTransaction = Transaction();
+NewTransaction.enterName("Jonny Cash");
 ```
