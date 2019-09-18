@@ -36,6 +36,7 @@ This pattern invokes the function expression immediately
 
 ### Creational design patterns
 **Module Pattern**
+This is useful for creating modules with local protected variables, only specific methods of the modules are exposed.
 ```js
 const Transaction = ( () => {
   let _custname = null;
@@ -52,4 +53,24 @@ const Transaction = ( () => {
 
 var NewTransaction = Transaction();
 NewTransaction.enterName("Jonny Cash");
+```
+
+**Singleton**
+This is used where only one instance can be instantiated. e.g. Database
+```js
+  const Database = (function(){
+    var connection;
+    function connect() {
+      return ConnectToDatabase();
+    }
+    return {
+      connect: function() {
+        if(!connection) {
+          connection = connect();
+        }
+        return connection;
+      }
+    }
+  })
+
 ```
