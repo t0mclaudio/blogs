@@ -78,3 +78,41 @@ This is used where only one instance can be instantiated. e.g. Database
   })
 
 ```
+**Factory**
+
+This is used to create object, abstracting user from the implementation.
+
+```js
+ const TourPackage = (function() {
+  let tourpackage;
+  return {
+    create: function(name, days) {
+      if (days > 1) {
+        tourpackage = MultiDay(name, days);
+      } else {
+        tourpackage = DayTour(name, days);
+      }
+      return tourpackage;
+    }
+  }
+ })();
+ 
+ MultiDay = function(name, days) {
+  return { 
+    name: name,
+    days: days,
+    type: "multiday"
+  }
+ }
+ 
+ DayTour = function(name, days) {
+  return {
+    name: name,
+    days: days,
+    type: "daytour"
+  }
+ }
+ 
+ T1 = TourPackage.create("Tour 1", 3);
+ T2 = TourPackage.create("Tour 2", 1);
+```
