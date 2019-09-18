@@ -1,36 +1,41 @@
-# Common Javascript Design Patterns
+# Javascript design notes 
 
-What first are immediately invoked function expressions(IIFE)?
-  
-A design pattern where we create a wrapper for a module so that its variables are local and protected inside that scope and does not spill outside its environment. It is usually assigned to a variable, and when the vairable is called it immediately invokes the instantiation of the function.
-  
-  e.g. 
-  ```js
-    const expression = (() => {
-     let _variable = null;
-      return {}
-    })(); // <- instantiates when called
-  ```
-  
-How are functions expressions and functions declarations written differently?
+**Scoping**
+This pattern is used to set local scope in a module
 
-Function Declaration
+```js
+( function PaymentProcessor() {
+  ...
+  })
+```
+
+**Function Declaration**
 ``` js
   function test() {
     //code here
   }
-
 ```
 
-Function Expression
-```js
-  const test = () => { 
+**Function Expression**
+``` js
+  const CashRegister = () => { 
     //code here
   }
 ```
 
-## Module Pattern
+**Immediately invoked function expression**
+This pattern invokes the function expression immediately
 
+```js
+  const CashRegister = function() {
+    ...
+  }() <- instantiates when called
+```
+
+## Design Patterns
+
+### Creational design patterns
+**Module Pattern**
 ```js
 const Product = ( () => {
   let _name = "Name"
