@@ -116,3 +116,41 @@ This is used to create object, abstracting user from the implementation.
  T1 = TourPackage.create("Tour 1", 3);
  T2 = TourPackage.create("Tour 2", 1);
 ```
+
+**Prototype**
+
+This is used to clone an object
+
+```js
+function SmartPhonePrototype(product) {
+  let _product = product
+  
+  return {
+    clone: function() {
+      let newProduct = new SmartPhone();
+      newProduct.name = _product.name;
+      newProduct.type = _product.type;
+      
+      return newProduct;
+    }
+  }
+}
+
+function SmartPhone() {
+  let type = "Smart Phone";
+  let name;
+  return {
+    type: type,
+    setName: function(name) {
+      name = name;
+      console.log("New " + name + type + " created.");
+    }
+  }
+}
+
+var smartphone = new SmartPhone();
+var prototype = new SmartPhonePrototype(smartphone);
+
+var newPhone = prototype.clone();
+newPhone.setName("Iphone 11");
+```
