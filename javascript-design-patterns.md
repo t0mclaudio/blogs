@@ -154,3 +154,7 @@ var prototype = new SmartPhonePrototype(smartphone);
 var newPhone = prototype.clone();
 newPhone.setName("Iphone 11");
 ```
+
+### Structural Pattern
+
+
